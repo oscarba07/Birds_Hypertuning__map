@@ -1,5 +1,3 @@
-setwd('C:/Users/oscar/Documents/R projects/Birds_Hypertuning__map')
-
 # Data sources:
 # https://www.metoffice.gov.uk/research/climate/maps-and-data/data/index
 # https://www.gbif.org/
